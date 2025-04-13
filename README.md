@@ -52,6 +52,8 @@ Telecom companies lose millions due to customer churn. By predicting **who is li
 Precision and F1-score also look high. This means it’s doing a great job.
 🔹 Step 8: Predict New Customers
 ![https://github.com/Sapna3950/-Churn-Analysis-Prediction-Using-AI-ML-](https://github.com/Sapna3950/-Churn-Analysis-Prediction-Using-AI-ML-/blob/main/Predict%20new%20customers)
+
+
 🧠 Meaning:
 1st, 2nd, 3rd, and 5th customers will Stay (0)
 4th customer is predicted to be Joined (2)
