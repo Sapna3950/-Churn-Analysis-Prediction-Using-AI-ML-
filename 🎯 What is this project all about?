@@ -18,7 +18,8 @@
             🧠 This builds the model. It learns patterns from the training data.
 
 🔹 Step 7: Check How Well Model Works
-![Churn Chart](images/churn_chart.png)
+![Alt text](Predict new customers.png)
+
 
 
 ✅ It predicted “Stayed” correctly 939 times!
