@@ -43,7 +43,7 @@ Telecom companies lose millions due to customer churn. By predicting **who is li
 🔹 Step 6: Train the Model
             🧠 This builds the model. It learns patterns from the training data.
 🔹 Step 7: Check How Well Model Works
-![https://github.com/Sapna3950/-Churn-Analysis-Prediction-Using-AI-ML-](Predict new customers.png)
+![https://github.com/Sapna3950/-Churn-Analysis-Prediction-Using-AI-ML-](https://github.com/Sapna3950/-Churn-Analysis-Prediction-Using-AI-ML-/blob/main/check%20model%20works)
 
 ✅ It predicted “Stayed” correctly 939 times!
 ✅ But sometimes made mistakes predicting "Joined" as "Churned", etc.
